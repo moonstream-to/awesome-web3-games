@@ -10,7 +10,7 @@ This is a list of interesting games that also happen to be web3.
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Current version runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
 
- ## PvP Multiplayer
+ ## Combat
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
  - [Hunters On-Chain](https://www.boomland.io/) - battle royale style action RPG battle where players compete against each other and the environment in different game modes to be the best Hunter. Runs on Polygon. `mobile/browser game` `playable`
 
