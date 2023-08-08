@@ -25,4 +25,7 @@ This is a list of interesting games that also happen to be web3.
 - [Arcadia](https://arcadia.fun/) - a game arcade with fun hyper-casual games and tournaments. Aimed to create a community-owned gaming universe. Runs on Polygon. `browser game` `playable`
 - [MetaBoy](https://metaboy.run/) - a collection of browser-based arcade style games, like Mega Dash (a side-scroller). Uses Ordinals - Bitcoin NFTs, but free-to-play mode also available. `browser game` `playable`
 
+## Racing
+- [Rhascau](https://www.mintersworld.com/rhascau) - a racing game, inspired by Ludo, where you compete with other players to be the first to get around the board. You can deploy multiple cars, attack other cars, and defend your cars from attacks. `fully on-chain` `browser game` `playable`
+
 [🔺Back to top](#awesome-web3-games)
