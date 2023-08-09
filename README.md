@@ -28,6 +28,6 @@ This is a list of interesting games that also happen to be web3.
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
 
 ## Survival
-- (The Walking Dead:Empires)[https://twdempires.game/] - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
+- [The Walking Dead:Empires](https://twdempires.game/) - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
 
 [🔺Back to top](#awesome-web3-games)
