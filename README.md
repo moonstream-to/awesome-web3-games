@@ -1,9 +1,25 @@
 # awesome-web3-games
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-This is a list of interesting games that also happen to be web3.
+This is a list of interesting games that also happen to be web3. Some of them you can already play, some have demo versions available, some are still in development. Feel free to add more web3 games to the list.
 
 --------------------
+## Table of contents
+
+- [Arcade](#arcade)
+- [Combat](#combat)
+- [Extraction Shooter](#extraction-shooter)
+- [Farming Sim](#farming-sim)
+- [MMORPG](#mmorpg)
+- [MOBA](#moba)
+- [Puzzle](#puzzle)
+- [Racing](#racing)
+- [Strategy](#strategy)
+- [Survival](#survival)
+- [Trading Card Game](#trading-card-game)
+
+--------------------
+
 ## Arcade
 - [Arcadia](https://arcadia.fun/) - a game arcade with fun hyper-casual games and tournaments. Aimed to create a community-owned gaming universe. Runs on Polygon. `browser game` `playable`
 - [MetaBoy](https://metaboy.run/) - a collection of browser-based arcade style games, like Mega Dash (a side-scroller). Uses Ordinals - Bitcoin NFTs, but free-to-play mode also available. `browser game` `playable`
@@ -15,7 +31,7 @@ This is a list of interesting games that also happen to be web3.
 ## Extraction Shooter
   - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
 
-## Farming sim
+## Farming Sim
 - [Crypto Unicorns](https://www.cryptounicorns.fun/) - breed Unicorns, farm lands, also has PvP elements and minigames, like Jousting. Runs on Polygon. `PC/browser game` `playable`
 - [Moonfrost](https://moonfrost.io/) - for fans of Harvest Moon and Stardew valley. A free-to-play life sim farming RPG on Solana. `PC/mobile game` `in development`
 
@@ -42,9 +58,9 @@ This is a list of interesting games that also happen to be web3.
 - [Doomsday: Settlers of the Wasteland](https://doomsday.ffg.com/about) - game built with scarcity and natural cycles of boom and bust as core mechanics. It's split into two distinct phases, Renaissance and Dark Age. Settlements must be mined during the Renaissance, and then compete to survive Disasters the Dark Age to win an ETH prize pot. Runs on Ethereum. `fully on-chain` `browser game` `playable`
 - [The Walking Dead:Empires](https://twdempires.game/) - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
 
-## Trading card game
+## Trading Card Game
   - [Parallel](https://parallel.life/) - for fans of Hearthstone, a sci-fi themed competitive oriented game with five factions that you can play as. Game's on Ethereum. `PC` `in development` `alpha`
-  - [Shardbound](https://www.shardbound.com/) - a free-to-play multiplayer collectible tactics game. Runs on Immutable. `PC` `in development`
+  - [Shardbound](https://www.shardbound.com/) - a free-to-play multiplayer collectible tactics game. Craft card decks and defeat other players. Runs on Immutable. `PC` `in development`
   - [Splinterlands](https://splinterlands.com/) - build your own decks and strategize for each battle, easy to start hard to master, free-to-play mode. Game uses HIVE blockchain, has cross-compatibility with other blockchains (Ethereum, WAX). `PC/mobile game` `playable`
 
 [🔺Back to top](#awesome-web3-games)
