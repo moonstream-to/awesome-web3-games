@@ -12,9 +12,20 @@ This is a list of interesting games that also happen to be web3.
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
  - [Hunters On-Chain](https://www.boomland.io/) - battle royale style action RPG battle where players compete against each other and the environment in different game modes to be the best Hunter. Runs on Polygon. `mobile/browser game` `playable`
 
+## Extraction Shooter
+  - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
+
 ## Farming sim
 - [Crypto Unicorns](https://www.cryptounicorns.fun/) - breed Unicorns, farm lands, also has PvP elements and minigames, like Jousting. Runs on Polygon. `PC/browser game` `playable`
 - [Moonfrost](https://moonfrost.io/) - for fans of Harvest Moon and Stardew valley. A free-to-play life sim farming RPG on Solana. `PC/mobile game` `in development`
+
+## MMORPG
+  - [Gran Saga: Unlimited](https://gsu.metapixel.io/) - you're helping the system AI called Lilith find bugs and errors. Complete quests, dungeons, acquire items, form parties with other players, engage in PvP combat. Runs on the Aptos blockchain. `PC/Mac` `alpha`
+- [Stella Fantasy](https://www.stellafantasy.io/) - for fans of Genshin Impact, this is an anime style action RPG with PvP and PvE. Explore, gather, craft, team up with other players, battle. Runs on Binance Smart Chain. `PC` `playable`
+- [Star Atlas](https://staratlas.com/) - a grand strategy space exploration game with combat and politics. A virtual gaming metaverse with three main fractions - humans, aliens, and androids. Runs on Solana. `PC` `in development` `pre-alpha`
+
+## MOBA
+  - [Spider Tanks](https://www.spidertanks.game/) - free-to-play PvP brawler where you own a garage and can customize your tanks. There are several gamelay modes like team deathmatch, capture the flag, chicken chase, poultry pusher, etc. Runs on Gala. `PC/Mac` `playable`
 
 ## Puzzle
 - [MuMu](https://mu-mu-s1.netlify.app/) - on-chain puzzle game in which matter changes when conditions described by a formula are met. Runs on Starknet. `fully on-chain` `browser game` `playable`
@@ -28,6 +39,12 @@ This is a list of interesting games that also happen to be web3.
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
 
 ## Survival
+- [Doomsday: Settlers of the Wasteland](https://doomsday.ffg.com/about) - game built with scarcity and natural cycles of boom and bust as core mechanics. It's split into two distinct phases, Renaissance and Dark Age. Settlements must be mined during the Renaissance, and then compete to survive Disasters the Dark Age to win an ETH prize pot. Runs on Ethereum. `fully on-chain` `browser game` `playable`
 - [The Walking Dead:Empires](https://twdempires.game/) - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
+
+## Trading card game
+  - [Parallel](https://parallel.life/) - for fans of Hearthstone, a sci-fi themed competitive oriented game with five factions that you can play as. Game's on Ethereum. `PC` `in development` `alpha`
+  - [Shardbound](https://www.shardbound.com/) - a free-to-play multiplayer collectible tactics game. Runs on Immutable. `PC` `in development`
+  - [Splinterlands](https://splinterlands.com/) - build your own decks and strategize for each battle, easy to start hard to master, free-to-play mode. Game uses HIVE blockchain, has cross-compatibility with other blockchains (Ethereum, WAX). `PC/mobile game` `playable`
 
 [🔺Back to top](#awesome-web3-games)
