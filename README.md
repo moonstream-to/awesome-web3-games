@@ -53,6 +53,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 - [The Citadel](https://library.citadel.game/) - 2D multiplayer space exploration strategy game. Get a ship and explore space as either a miner or a marauder. Game is on Polygon. `fully on-chain` `in development`
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Current version runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
+- [Shoshin](https://shoshin.gg/) - a TPS-agnostic asynchronous strategy game - a 2D fighting game where you play by designing strategy for asynchronous fights. Runs on Starknet. `fully on-chain` `browser game` `playable`
 
 ## Survival
 - [Doomsday: Settlers of the Wasteland](https://doomsday.ffg.com/about) - game built with scarcity and natural cycles of boom and bust as core mechanics. It's split into two distinct phases, Renaissance and Dark Age. Settlements must be mined during the Renaissance, and then compete to survive Disasters the Dark Age to win an ETH prize pot. Runs on Ethereum. `fully on-chain` `browser game` `playable`
