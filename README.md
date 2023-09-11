@@ -22,6 +22,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 
 ## Arcade
 - [Arcadia](https://arcadia.fun/) - a game arcade with fun hyper-casual games and tournaments. Aimed to create a community-owned gaming universe. Runs on Polygon. `browser game` `playable`
+- [Loot Survivor](https://survivor.realms.world/) - the first Play2Die game, where you create a character to exlore game levels that get progressively harder. There are character classes, inventory items, and highscores. Developed by Realms on Starknet. `fully on-chain` `browser game` `playable`
 - [MetaBoy](https://metaboy.run/) - a collection of browser-based arcade style games, like Mega Dash (a side-scroller). Uses Ordinals - Bitcoin NFTs, but free-to-play mode also available. `browser game` `playable`
 
  ## Combat
