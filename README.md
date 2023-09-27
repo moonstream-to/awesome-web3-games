@@ -14,6 +14,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 - [MOBA](#moba)
 - [Puzzle](#puzzle)
 - [Racing](#racing)
+- [RPG](#RPG)
 - [Strategy](#strategy)
 - [Survival](#survival)
 - [Trading Card Game](#trading-card-game)
@@ -50,6 +51,9 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 ## Racing
 - [Rhascau](https://www.mintersworld.com/rhascau) - a racing game, inspired by Ludo, where you compete with other players to be the first to get around the board. You can deploy multiple cars, attack other cars, and defend your cars from attacks. `fully on-chain` `browser game` `playable`
 
+## RPG
+- [Kamigotchi](https://twitter.com/kamigotchiworld) - a pet RPG game by Asphodel Labs. It's an always online completely on-chain game where you travel through Kamigotchi wowrld with your Kamigotchi pets that have different stats and types. Minting is on Optimism. `fully on-chain` `in development`
+
 ## Strategy
 - [The Citadel](https://library.citadel.game/) - 2D multiplayer space exploration strategy game. Get a ship and explore space as either a miner or a marauder. Game is on Polygon. `fully on-chain` `in development`
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Current version runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
@@ -61,8 +65,10 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 - [The Walking Dead:Empires](https://twdempires.game/) - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
 
 ## Trading Card Game
+  - [Cross The Ages](https://www.crosstheages.com/) - a free-to-play collectible card game based in a world where fantasy and sci-fi collide. Build your deck and fight in the arena. The game has physical collectible cards and NFTs. Game's marketplace is on ImmutableX. `mobile/PC game` `playable`
   - [Parallel](https://parallel.life/) - for fans of Hearthstone, a sci-fi themed competitive oriented game with five factions that you can play as. Game's on Ethereum. `PC` `in development` `alpha`
   - [Shardbound](https://www.shardbound.com/) - a free-to-play multiplayer collectible tactics game. Craft card decks and defeat other players. Runs on Immutable. `PC` `in development`
   - [Splinterlands](https://splinterlands.com/) - build your own decks and strategize for each battle, easy to start hard to master, free-to-play mode. Game uses HIVE blockchain, has cross-compatibility with other blockchains (Ethereum, WAX). `PC/mobile game` `playable`
+
 
 [🔺Back to top](#awesome-web3-games)
