@@ -29,6 +29,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
  ## Combat
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
  - [Hunters On-Chain](https://www.boomland.io/) - battle royale style action RPG battle where players compete against each other and the environment in different game modes to be the best Hunter. Runs on Polygon. `mobile/browser game` `playable`
+ - [Mighty Action Heroes](https://mightybeargames.com/portfolio-item/mighty-action-heroes/) - a real-time multiplayer third-person Battle Royale. Game's on Arbitrum. `browser/mobile game` `playable`
 
 ## Extraction Shooter
   - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
@@ -39,6 +40,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 
 ## MMORPG
   - [Gran Saga: Unlimited](https://gsu.metapixel.io/) - you're helping the system AI called Lilith find bugs and errors. Complete quests, dungeons, acquire items, form parties with other players, engage in PvP combat. Runs on the Aptos blockchain. `PC/Mac` `alpha`
+  - [Phantasma](https://www.phantasma.online/) - an expansive open-world MMO with action, adventure, fishing, and woodcutting. You play as a ghost in the Etherworld, battle monsters, connect with friends, and master mystical skills. Game's NFTs are multichain: BNBChain, Polygon, Ethereum, Avalanche, Harmony One, Fantom, and Cronos. `PC/Mac` `playable early access`
 - [Stella Fantasy](https://www.stellafantasy.io/) - for fans of Genshin Impact, this is an anime style action RPG with PvP and PvE. Explore, gather, craft, team up with other players, battle. Runs on Binance Smart Chain. `PC` `playable`
 - [Star Atlas](https://staratlas.com/) - a grand strategy space exploration game with combat and politics. A virtual gaming metaverse with three main fractions - humans, aliens, and androids. Runs on Solana. `PC` `in development` `pre-alpha`
 
