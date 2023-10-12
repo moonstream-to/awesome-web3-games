@@ -25,6 +25,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 - [Arcadia](https://arcadia.fun/) - a game arcade with fun hyper-casual games and tournaments. Aimed to create a community-owned gaming universe. Runs on Polygon. `browser game` `playable`
 - [Loot Survivor](https://survivor.realms.world/) - the first Play2Die game, where you create a character to exlore game levels that get progressively harder. There are character classes, inventory items, and highscores. Developed by Realms on Starknet. `fully on-chain` `browser game` `playable`
 - [MetaBoy](https://metaboy.run/) - a collection of browser-based arcade style games, like Mega Dash (a side-scroller). Uses Ordinals - Bitcoin NFTs, but free-to-play mode also available. `browser game` `playable`
+- [STG Football](https://stgfootball.com/) - a free-to-play 4v4 arcade football with Player Packs available for purchase. The game is available on Epic store and Steam and is using a Forte sidechain (cross-chain in the future).  `PC game` `playable`
 
  ## Combat
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
@@ -57,6 +58,7 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 - [Kamigotchi](https://twitter.com/kamigotchiworld) - a pet RPG game by Asphodel Labs. It's an always online completely on-chain game where you travel through Kamigotchi wowrld with your Kamigotchi pets that have different stats and types. Minting is on Optimism. `fully on-chain` `in development`
 
 ## Strategy
+- [Castle Of Blackwater](https://www.castleofblackwater.com/) - a social deduction game where you're trapped in a castle with other players. You need to complete tasks and escape. Inspired by games like Among Us, Town of Salem, Mafia/Werewolf and Deceit. The game is on the Beam chain.  `playable alpha`
 - [The Citadel](https://library.citadel.game/) - 2D multiplayer space exploration strategy game. Get a ship and explore space as either a miner or a marauder. Game is on Polygon. `fully on-chain` `in development`
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Current version runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
