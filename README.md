@@ -1,7 +1,9 @@
 # awesome-web3-games
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-This is a list of interesting games that also happen to be web3. Some of them you can already play, some have demo versions available, some are still in development. Feel free to add more web3 games to the list.
+This is a list of interesting games that also happen to be web3. Some of them you can already play, some have demo versions available, some are still in development. Feel free to add more web3 games to the list. 
+
+Before adding a game, please read [the contributing guide](https://github.com/moonstream-to/awesome-web3-games/blob/fdd3b8fa35bac87602eb920d7e55bb8f3b061b2e/contributing.md#contribution-guidelines).	:purple_heart:
 
 --------------------
 ## Table of contents
