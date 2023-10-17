@@ -41,10 +41,10 @@ This is a list of interesting games that also happen to be web3. Some of them yo
 
 ## MMORPG
   - [Gran Saga: Unlimited](https://gsu.metapixel.io/) - you're helping the system AI called Lilith find bugs and errors. Complete quests, dungeons, acquire items, form parties with other players, engage in PvP combat. Runs on the Aptos blockchain. `PC/Mac` `alpha`
+  - [Influence](https://www.influenceth.io/) - a space-strategy MMO born from humanity's desperate quest for survival. Seize your destiny in the Adalia system, where pioneers colonize asteroids, harness resources, and forge a new civilization amidst the vast unknown. Runs on StarkNet. `browser game` `playable`
   - [Phantasma](https://www.phantasma.online/) - an expansive open-world MMO with action, adventure, fishing, and woodcutting. You play as a ghost in the Etherworld, battle monsters, connect with friends, and master mystical skills. Game's NFTs are multichain: BNBChain, Polygon, Ethereum, Avalanche, Harmony One, Fantom, and Cronos. `PC/Mac` `playable early access`
 - [Stella Fantasy](https://www.stellafantasy.io/) - for fans of Genshin Impact, this is an anime style action RPG with PvP and PvE. Explore, gather, craft, team up with other players, battle. Runs on Binance Smart Chain. `PC` `playable`
 - [Star Atlas](https://staratlas.com/) - a grand strategy space exploration game with combat and politics. A virtual gaming metaverse with three main fractions - humans, aliens, and androids. Runs on Solana. `PC` `in development` `pre-alpha`
-- [Influence](https://www.influenceth.io/) - a space-strategy MMO born from humanity's desperate quest for survival. Seize your destiny in the Adalia system, where pioneers colonize asteroids, harness resources, and forge a new civilization amidst the vast unknown. Runs on StarkNet. `browser game` `playable`
 
 ## MOBA
   - [Spider Tanks](https://www.spidertanks.game/) - free-to-play PvP brawler where you own a garage and can customize your tanks. There are several gamelay modes like team deathmatch, capture the flag, chicken chase, poultry pusher, etc. Runs on Gala. `PC/Mac` `playable`
