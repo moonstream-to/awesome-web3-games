@@ -58,6 +58,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [Rhascau](https://www.mintersworld.com/rhascau) - a racing game, inspired by Ludo, where you compete with other players to be the first to get around the board. You can deploy multiple cars, attack other cars, and defend your cars from attacks. `fully on-chain` `browser game` `playable`
 
 ## RPG
+- [ChronoForge](https://chronoforge.gg/) - a multiplayer Action RPG built on ImmutableX. It has raids and quests, strategic PvP and procedurally generated dungeons. You can also build and upgrade your settlement. `PC` `in development`
 - [Kamigotchi](https://twitter.com/kamigotchiworld) - a pet RPG game by Asphodel Labs. It's an always online completely on-chain game where you travel through Kamigotchi wowrld with your Kamigotchi pets that have different stats and types. Minting is on Optimism. `fully on-chain` `in development`
 
 ## Strategy
