@@ -16,7 +16,8 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [MOBA](#moba)
 - [Puzzle](#puzzle)
 - [Racing](#racing)
-- [RPG](#RPG)
+- [RPG](#rpg)
+- [Sports](#sports)
 - [Strategy](#strategy)
 - [Survival](#survival)
 - [Trading Card Game](#trading-card-game)
@@ -25,9 +26,8 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 
 ## Arcade
 - [Arcadia](https://arcadia.fun/) - a game arcade with fun hyper-casual games and tournaments. Aimed to create a community-owned gaming universe. Runs on Polygon. `browser game` `playable`
-- [Loot Survivor](https://survivor.realms.world/) - the first Play2Die game, where you create a character to exlore game levels that get progressively harder. There are character classes, inventory items, and highscores. Developed by Realms on Starknet. `fully on-chain` `browser game` `playable`
+- [Loot Survivor](https://survivor.realms.world/) - the first Play2Die game, where you create a character to explore game levels that get progressively harder. There are character classes, inventory items, and highscores. Developed by Realms on Starknet. `fully on-chain` `browser game` `playable`
 - [MetaBoy](https://metaboy.run/) - a collection of browser-based arcade style games, like Mega Dash (a side-scroller). Uses Ordinals - Bitcoin NFTs, but free-to-play mode also available. `browser game` `playable`
-- [STG Football](https://stgfootball.com/) - a free-to-play 4v4 arcade football with Player Packs available for purchase. The game is available on Epic store and Steam and is using a Forte sidechain (cross-chain in the future).  `PC game` `playable`
 
  ## Combat
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
@@ -42,6 +42,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [Moonfrost](https://moonfrost.io/) - for fans of Harvest Moon and Stardew valley. A free-to-play life sim farming RPG on Solana. `PC/mobile game` `in development`
 
 ## MMORPG
+  - [Ember Sword](https://embersword.com/) - a social sandbox MMORPG taking place in a player-driven universe with PvP and PvE elements. Runs on Immutable X. `PC/Mac` `in development`
   - [Gran Saga: Unlimited](https://gsu.metapixel.io/) - you're helping the system AI called Lilith find bugs and errors. Complete quests, dungeons, acquire items, form parties with other players, engage in PvP combat. Runs on the Aptos blockchain. `PC/Mac` `alpha`
   - [Influence](https://www.influenceth.io/) - a space-strategy MMO born from humanity's desperate quest for survival. Seize your destiny in the Adalia system, where pioneers colonize asteroids, harness resources, and forge a new civilization amidst the vast unknown. Runs on StarkNet. `browser game` `playable`
   - [Phantasma](https://www.phantasma.online/) - an expansive open-world MMO with action, adventure, fishing, and woodcutting. You play as a ghost in the Etherworld, battle monsters, connect with friends, and master mystical skills. Game's NFTs are multichain: BNBChain, Polygon, Ethereum, Avalanche, Harmony One, Fantom, and Cronos. `PC/Mac` `playable early access`
@@ -60,6 +61,10 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 ## RPG
 - [ChronoForge](https://chronoforge.gg/) - a multiplayer Action RPG built on ImmutableX. It has raids and quests, strategic PvP and procedurally generated dungeons. You can also build and upgrade your settlement. `PC` `in development`
 - [Kamigotchi](https://twitter.com/kamigotchiworld) - a pet RPG game by Asphodel Labs. It's an always online completely on-chain game where you travel through Kamigotchi wowrld with your Kamigotchi pets that have different stats and types. Minting is on Optimism. `fully on-chain` `in development`
+
+## Sports
+- [Sorare](https://sorare.com/) - fantasy sports game where you collect and compete with ownable digital player cards to win prizes (cash, ETH, Sorare player cards, game tickets, gear, apparel, and access to players and VIP experiences). Competitions are free to play. `browser game` `playable`
+- [STG Football](https://stgfootball.com/) - a free-to-play 4v4 arcade football with Player Packs available for purchase. The game is available on Epic store and Steam and is using a Forte sidechain (cross-chain in the future).  `PC game` `playable`
 
 ## Strategy
 - [Castle Of Blackwater](https://www.castleofblackwater.com/) - a social deduction game where you're trapped in a castle with other players. You need to complete tasks and escape. Inspired by games like Among Us, Town of Salem, Mafia/Werewolf and Deceit. The game is on the Beam chain.  `playable alpha`
