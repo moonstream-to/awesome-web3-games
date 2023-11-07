@@ -51,6 +51,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 
 ## MOBA
   - [Spider Tanks](https://www.spidertanks.game/) - free-to-play PvP brawler where you own a garage and can customize your tanks. There are several gamelay modes like team deathmatch, capture the flag, chicken chase, poultry pusher, etc. Runs on Gala. `PC/Mac` `playable`
+- [WILDCARD](https://www.wildcardgame.com/) - a PVP collectible card based MOBA. You choose a champoion and then assemble decks of collectible creatures to fight with other players in arenas. Game's NFTs are on Polygon. `playable`
 
 ## Puzzle
 - [MuMu](https://mu-mu-s1.netlify.app/) - on-chain puzzle game in which matter changes when conditions described by a formula are met. Runs on Starknet. `fully on-chain` `browser game` `playable`
@@ -61,6 +62,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 ## RPG
 - [ChronoForge](https://chronoforge.gg/) - a multiplayer Action RPG built on ImmutableX. It has raids and quests, strategic PvP and procedurally generated dungeons. You can also build and upgrade your settlement. `PC` `in development`
 - [Kamigotchi](https://twitter.com/kamigotchiworld) - a pet RPG game by Asphodel Labs. It's an always online completely on-chain game where you travel through Kamigotchi wowrld with your Kamigotchi pets that have different stats and types. Minting is on Optimism. `fully on-chain` `in development`
+- [Phantom Galaxies](https://phantomgalaxies.com/) - is an expansive online multiplayer sci-fi mecha action-RPG. The game is on Polygon but has a non-web3 version. `PC game` `early access`
 
 ## Sports
 - [Sorare](https://sorare.com/) - fantasy sports game where you collect and compete with ownable digital player cards to win prizes (cash, ETH, Sorare player cards, game tickets, gear, apparel, and access to players and VIP experiences). Competitions are free to play. `browser game` `playable`
