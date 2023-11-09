@@ -63,6 +63,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [ChronoForge](https://chronoforge.gg/) - a multiplayer Action RPG built on ImmutableX. It has raids and quests, strategic PvP and procedurally generated dungeons. You can also build and upgrade your settlement. `PC` `in development`
 - [Kamigotchi](https://twitter.com/kamigotchiworld) - a pet RPG game by Asphodel Labs. It's an always online completely on-chain game where you travel through Kamigotchi wowrld with your Kamigotchi pets that have different stats and types. Minting is on Optimism. `fully on-chain` `in development`
 - [Phantom Galaxies](https://phantomgalaxies.com/) - is an expansive online multiplayer sci-fi mecha action-RPG. The game is on Polygon but has a non-web3 version. `PC game` `early access`
+- [Pirate Nation](https://piratenation.game/) - an RPG where you build your ship, recruit your crew, and battle your way across the isles to become the top pirate. Game's NFTs are on Ethereum; gameplay will be on Arbitrum Nova. `fully on-chain` `browser game` `playable beta`
 
 ## Sports
 - [Sorare](https://sorare.com/) - fantasy sports game where you collect and compete with ownable digital player cards to win prizes (cash, ETH, Sorare player cards, game tickets, gear, apparel, and access to players and VIP experiences). Competitions are free to play. `browser game` `playable`
