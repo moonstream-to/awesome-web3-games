@@ -12,6 +12,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [Combat](#combat)
 - [Extraction Shooter](#extraction-shooter)
 - [Farming Sim](#farming-sim)
+- [Horror](#horror)
 - [MMORPG](#mmorpg)
 - [MOBA](#moba)
 - [Puzzle](#puzzle)
@@ -40,6 +41,9 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 ## Farming Sim
 - [Crypto Unicorns](https://www.cryptounicorns.fun/) - breed Unicorns, farm lands, also has PvP elements and minigames, like Jousting. Runs on Polygon. `PC/browser game` `playable`
 - [Moonfrost](https://moonfrost.io/) - for fans of Harvest Moon and Stardew valley. A free-to-play life sim farming RPG on Solana. `PC/mobile game` `in development`
+
+## Horror
+- [This Cursed Machine](https://twitter.com/movingcastles_) - sci-fi body horror fulfilment center simulator launching Nov 2023. Reverse engineer complex recipes and use your body as a production circuit. `fully on-chain` `browser game` `in development`
 
 ## MMORPG
   - [Ember Sword](https://embersword.com/) - a social sandbox MMORPG taking place in a player-driven universe with PvP and PvE elements. Runs on Immutable X. `PC/Mac` `in development`
@@ -75,6 +79,9 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [The Citadel](https://library.citadel.game/) - 2D multiplayer space exploration strategy game. Get a ship and explore space as either a miner or a marauder. Game is on Polygon. `fully on-chain` `in development`
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Current version runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
+- [Primodium](https://twitter.com/primodiumgame) - a base-building game where you aim to control an asteroid belt through complex resource extraction, marines, spaceships, alliances, and more. Runs on Caldera. `fully on-chain` `browser game` `playable`
+- [Roll Your Own](https://rollyourown.preview.cartridge.gg/) - an onchain adaptation of the classic arbitrage game Drug Wars, set in a fictional New York City. Compete on a global leaderboard to stack as much paper as possible. `fully on-chain` `browser game` `playable`
+- [Sky Strife](https://playtest.skystrife.xyz/) - a blend of an RTS and turn-based strategy game, inspired by classics like Starcraft. Compete to amass the largest army, destroy opponents' bases, and aim to be the last one standing.  `fully on-chain` `browser game` `playtesting`
 - [Shoshin](https://shoshin.gg/) - a TPS-agnostic asynchronous strategy game - a 2D fighting game where you play by designing strategy for asynchronous fights. Runs on Starknet. `fully on-chain` `browser game` `playable`
 
 ## Survival
