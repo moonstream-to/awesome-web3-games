@@ -85,7 +85,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [Shoshin](https://shoshin.gg/) - a TPS-agnostic asynchronous strategy game - a 2D fighting game where you play by designing strategy for asynchronous fights. Runs on Starknet. `fully on-chain` `browser game` `playable`
 
 ## Survival
-- [Doomsday: Settlers of the Wasteland](https://doomsday.ffg.com/about) - game built with scarcity and natural cycles of boom and bust as core mechanics. It's split into two distinct phases, Renaissance and Dark Age. Settlements must be mined during the Renaissance, and then compete to survive Disasters the Dark Age to win an ETH prize pot. Runs on Ethereum. `fully on-chain` `browser game` `playable`
+- [Doomsday: Settlers of the Wasteland](https://doomsday.ffg.com/home) - game built with scarcity and natural cycles of boom and bust as core mechanics. It's split into two distinct phases, Renaissance and Dark Age. Settlements must be mined during the Renaissance, and then compete to survive Disasters the Dark Age to win an ETH prize pot. Runs on Ethereum. `fully on-chain` `browser game` `playable`
 - [The Walking Dead:Empires](https://twdempires.game/) - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
 
 ## Trading Card Game
