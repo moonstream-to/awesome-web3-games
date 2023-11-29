@@ -37,6 +37,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 
 ## Extraction Shooter
   - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
+  - [Shrapnel](https://www.shrapnel.com/) - 1st moddable AAA extraction shooter set in a not-so-distant future. The game is on Avalanche. `PC` `in development` `early access` 
 
 ## Farming Sim
 - [Crypto Unicorns](https://www.cryptounicorns.fun/) - breed Unicorns, farm lands, also has PvP elements and minigames, like Jousting. Runs on Polygon. `PC/browser game` `playable`
@@ -78,6 +79,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [Castle Of Blackwater](https://www.castleofblackwater.com/) - a social deduction game where you're trapped in a castle with other players. You need to complete tasks and escape. Inspired by games like Among Us, Town of Salem, Mafia/Werewolf and Deceit. The game is on the Beam chain.  `playable alpha`
 - [The Citadel](https://library.citadel.game/) - 2D multiplayer space exploration strategy game. Get a ship and explore space as either a miner or a marauder. Game is on Polygon. `fully on-chain` `in development`
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
+- [Downstream](https://twitter.com/DownstreamGame) - a post singularity civilisation simulator. Help a super intelligent AI rebuild after an unfortunate accident. `fully on-chain` `in development`
 - [Mithraeum](https://mithraeum.io/) - a political strategy game with an emphasis on social interactions. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable demo + tournaments`
 - [Primodium](https://twitter.com/primodiumgame) - a base-building game where you aim to control an asteroid belt through complex resource extraction, marines, spaceships, alliances, and more. Runs on Caldera. `fully on-chain` `browser game` `playable`
 - [Roll Your Own](https://rollyourown.preview.cartridge.gg/) - an onchain adaptation of the classic arbitrage game Drug Wars, set in a fictional New York City. Compete on a global leaderboard to stack as much paper as possible. `fully on-chain` `browser game` `playable`
