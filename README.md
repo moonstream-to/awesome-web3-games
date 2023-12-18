@@ -34,6 +34,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
  - [Hunters On-Chain](https://www.boomland.io/) - battle royale style action RPG battle where players compete against each other and the environment in different game modes to be the best Hunter. Runs on Polygon. `mobile/browser game` `playable`
  - [Mighty Action Heroes](https://mightybeargames.com/portfolio-item/mighty-action-heroes/) - a real-time multiplayer third-person Battle Royale. Game's on Arbitrum. `browser/mobile game` `playable`
+ - [Rumble Arcade](https://play.rumblearcade.io/) - a tactical PvP squad-battler. Build your team to battle other players. Developing on [Beam](https://onbeam.com/). `browser game` `in development`
 
 ## Extraction Shooter
   - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
