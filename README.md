@@ -37,6 +37,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 
 ## Extraction Shooter
   - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
+  - [Engines of Fury](https://www.eof.gg/) - a free to play top-down extraction shooter set in a post-apocalyptic dystopia. Escape from Tarkov meets Diablo style of game. `in development`
   - [Shrapnel](https://www.shrapnel.com/) - 1st moddable AAA extraction shooter set in a not-so-distant future. The game is on Avalanche. `PC` `in development` `early access` 
 
 ## Farming Sim
