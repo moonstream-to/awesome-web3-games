@@ -79,6 +79,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 
 ## Strategy
 - [1337](https://f1337.vercel.app/) - the world's first memetic onchain game exclusively for [Farcaster](https://www.farcaster.xyz/) users. Runs on [Base](https://t.co/6pgVoBTD5h). `fully on-chain` `browser game` `playable`
+- [Battle for Blockchain](https://medium.com/@stokasz/announcing-battle-for-blockchain-the-first-autonomous-war-powered-by-mud-c2a21be84fd4) - an MMO Auto Battler with tactical warfare and strategic confrontations. Choose factions, Spooncity or Forktown, and battle for glory and gold. `fully on-chain` `browser game` `in development`
 - [Castle Of Blackwater](https://www.castleofblackwater.com/) - a social deduction game where you're trapped in a castle with other players. You need to complete tasks and escape. Inspired by games like Among Us, Town of Salem, Mafia/Werewolf and Deceit. The game is on the Beam chain.  `playable alpha`
 - [The Citadel](https://library.citadel.game/) - 2D multiplayer space exploration strategy game. Get a ship and explore space as either a miner or a marauder. Game is on Polygon. `fully on-chain` `in development`
 - [Conquest.eth](https://conquest.game/) - a game of strategy and diplomacy in space. Gather a fleet of ships to conquer planets. Runs on the Gnosis Chain. `fully on-chain` `browser game` `playable`
