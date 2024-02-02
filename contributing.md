@@ -10,7 +10,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - No shilling of projects.
 - Add appropriate tags to the games you're submitting: `fully on-chain` (if true) `platform` (PC/mobile/browser/PS/etc.) `playable` or `in-development`
 - Add a short gameplay description *for e.g.*: ❌Best game you've ever played. ✔Third-person shooter with zombies and aliens.
-- Mention what blockchain the game is on
+- Mention what blockchain(s) the game is on
 
 ## Adding something to this awesome list
 
