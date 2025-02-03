@@ -28,7 +28,6 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 ## Arcade
 - [Arcadia](https://arcadia.fun/) - a game arcade with fun hyper-casual games and tournaments. Aimed to create a community-owned gaming universe. Runs on Polygon. `browser game` `playable`
 - [Loot Survivor](https://survivor.realms.world/) - the first Play2Die game, where you create a character to explore game levels that get progressively harder. There are character classes, inventory items, and highscores. Developed by Realms on Starknet. `fully on-chain` `browser game` `playable`
-- [MetaBoy](https://metaboy.run/) - a collection of browser-based arcade style games, like Mega Dash (a side-scroller). Uses Ordinals - Bitcoin NFTs, but free-to-play mode also available. `browser game` `playable`
 
  ## Combat
  - [Champions Ascension](https://champions.io/) - a multiplayer game with arena-based combat where you collect a roster of fighters. Runs on Ethereum but moving to Polygon soon. `browser/PC game` `playable`
@@ -37,7 +36,6 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
  - [Rumble Arcade](https://play.rumblearcade.io/) - a tactical PvP squad-battler. Build your team to battle other players. Developing on [Beam](https://onbeam.com/). `browser game` `in development`
 
 ## Extraction Shooter
-  - [Deaddrop](https://midnightsociety.com/deadrop) - free-to-play first-person Vertical Extraction Shooter set in a dark and violent future where the 80s never ended. `PC` `in development` `pre-alpha`
   - [Engines of Fury](https://www.eof.gg/) - a free to play top-down extraction shooter set in a post-apocalyptic dystopia. Escape from Tarkov meets Diablo style of game. `in development`
   - [Shrapnel](https://www.shrapnel.com/) - 1st moddable AAA extraction shooter set in a not-so-distant future. The game is on Avalanche. `PC` `in development` `early access` 
 
@@ -58,7 +56,6 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 - [Star Atlas](https://staratlas.com/) - a grand strategy space exploration game with combat and politics. A virtual gaming metaverse with three main fractions - humans, aliens, and androids. Runs on Solana. `PC` `in development` `pre-alpha`
 
 ## MOBA
-- [Spider Tanks](https://www.spidertanks.game/) - free-to-play PvP brawler where you own a garage and can customize your tanks. There are several gamelay modes like team deathmatch, capture the flag, chicken chase, poultry pusher, etc. Runs on Gala. `PC/Mac` `playable`
 - [WILDCARD](https://www.wildcardgame.com/) - a PVP collectible card based MOBA. You choose a champoion and then assemble decks of collectible creatures to fight with other players in arenas. Game's NFTs are on Polygon. `playable`
 
 ## Puzzle
@@ -93,7 +90,6 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
 
 ## Survival
 - [Doomsday: Settlers of the Wasteland](https://doomsday.ffg.com/home) - game built with scarcity and natural cycles of boom and bust as core mechanics. It's split into two distinct phases, Renaissance and Dark Age. Settlements must be mined during the Renaissance, and then compete to survive Disasters the Dark Age to win an ETH prize pot. Runs on Ethereum. `fully on-chain` `browser game` `playable`
-- [The Walking Dead:Empires](https://twdempires.game/) - a multiplayer survival game in The Walking Dead universe. Scavenge for resources, craft items, build your base, team up with other players, and kill zombies. Runs on Gala chain/assets on Ethereum. `PC` `in development`
 
 ## Trading Card Game
   - [Cross The Ages](https://www.crosstheages.com/) - a free-to-play collectible card game based in a world where fantasy and sci-fi collide. Build your deck and fight in the arena. The game has physical collectible cards and NFTs. Game's marketplace is on ImmutableX. `mobile/PC game` `playable`
